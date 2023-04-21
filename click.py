@@ -1,4 +1,4 @@
 def click():
-    print("Cliדשגsadc66")
+    print("Clisadadc66")
     
 click()
